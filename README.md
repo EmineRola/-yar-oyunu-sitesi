@@ -2,6 +2,6 @@
 
  <h1>Kullanılan Teknolojiler </h1>
 
-Html,css
+Html5git,css
 
-![](ekran.gif)
+![](ekran1.gif)
